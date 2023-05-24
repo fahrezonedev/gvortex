@@ -1,6 +1,6 @@
 {
   "title":"Test",
   "subtitle":"anjay slebew, lov u <3",
-  "positive":"Okay",
-  "negative":"false"
+  "btnPositive":"Okay",
+  "btnNegative":"false"
 }
