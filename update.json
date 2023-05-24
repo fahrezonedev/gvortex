@@ -1,7 +1,9 @@
 {
   "vCode":"298",
-  "title":"Ingfo",
+  "title":"Info",
   "subtitle":"anjay slebew, lov u <3",
-  "btnPositive":"Okay",
-  "btnNegative":"false"
+  "btnPositive":"Update",
+  "urlPositive":"https://google.com",
+  "btnNegative":"Skip", //false to disable
+  "urlNegative":"skip", //can use exit or use link
 }
