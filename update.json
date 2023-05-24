@@ -4,6 +4,6 @@
   "subtitle":"anjay slebew, lov u <3",
   "btnPositive":"Update",
   "urlPositive":"https://google.com",
-  "btnNegative":"Skip",
-  "urlNegative":"skip"
+  "btnNegative":"Exit",
+  "urlNegative":"exit"
 }
