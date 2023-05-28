@@ -1,9 +1,9 @@
 {
-  "vCode":"298",
-  "title":"Info",
-  "subtitle":"Aplikasi ini masih dalam percobaan\nJangan pernah menyerah karena masih banyak cobaan yang belum dicobain.",
+  "vCode":"2982",
+  "title":"MAINTENANCE",
+  "subtitle":"Please be patient until Server OK",
   "btnPositive":"Ok",
-  "urlPositive":"skip",
+  "urlPositive":"exit",
   "btnNegative":"false",
   "urlNegative":"exit"
 }
