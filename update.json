@@ -1,9 +1,9 @@
 {
   "vCode":"2982",
-  "title":"MAINTENANCE",
-  "subtitle":"Please be patient until Server OK",
+  "title":"Update",
+  "subtitle":"You can Update App now",
   "btnPositive":"Ok",
-  "urlPositive":"exit",
-  "btnNegative":"false",
+  "urlPositive":"https://play.google.com/store/apps/details?id=com.rezone.gvortex",
+  "btnNegative":"Exit",
   "urlNegative":"exit"
 }
