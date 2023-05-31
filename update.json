@@ -4,6 +4,6 @@
   "subtitle":"Update available\nMaybe your problem on this Version has ben Fixed :)",
   "btnPositive":"Ok",
   "urlPositive":"https://play.google.com/store/apps/details?id=com.rezone.gvortex",
-  "btnNegative":"Later",
+  "btnNegative":"false",
   "urlNegative":"skip"
 }
