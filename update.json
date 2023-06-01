@@ -1,7 +1,7 @@
 {
-  "vCode":"3040",
+  "vCode":"3042",
   "title":"Update",
-  "subtitle":"Update available\nMaybe your problem on this Version has ben Fixed :)",
+  "subtitle":"Update available\nUninstall Old Version before Update :)",
   "btnPositive":"Ok",
   "urlPositive":"https://fahrezonedev.github.io",
   "btnNegative":"false",
