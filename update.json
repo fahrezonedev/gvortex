@@ -2,7 +2,7 @@
   "vCode":"3043",
   "title":"Update",
   "subtitle":"Update Available, update now to get 240vcoins for free",
-  "btnPositive":"Ok",
+  "btnPositive":"Update Now",
   "urlPositive":"https://fahrezonedev.github.io",
   "btnNegative":"false",
   "urlNegative":"skip"
