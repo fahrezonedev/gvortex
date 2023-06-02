@@ -1,9 +1,9 @@
 {
-  "vCode":"3042",
-  "title":"Update",
-  "subtitle":"Update available\nUninstall Old Version before Update :)",
+  "vCode":"3043",
+  "title":"Maintenance",
+  "subtitle":"Please be patient until Server is OK",
   "btnPositive":"Ok",
-  "urlPositive":"https://fahrezonedev.github.io",
+  "urlPositive":"exit",
   "btnNegative":"false",
   "urlNegative":"skip"
 }
