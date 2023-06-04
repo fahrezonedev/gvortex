@@ -1,9 +1,9 @@
 {
   "vCode":"3050",
-  "title":"Maintenance",
-  "subtitle":"Server is being Upgraded :)",
-  "btnPositive":"Ok",
-  "urlPositive":"exit",
+  "title":"Update",
+  "subtitle":"Update available, Update now and get 240vc Free :)",
+  "btnPositive":"Update",
+  "urlPositive":"https://fahrezonedev.github.io",
   "btnNegative":"false",
   "urlNegative":"skip"
 }
