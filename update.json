@@ -1,9 +1,9 @@
 {
-  "vCode":"3043",
-  "title":"Update",
-  "subtitle":"Update Available, update now to get 240vcoins for free",
-  "btnPositive":"Update Now",
-  "urlPositive":"https://fahrezonedev.github.io",
+  "vCode":"3050",
+  "title":"Maintenance",
+  "subtitle":"Server is being Upgraded :)",
+  "btnPositive":"Ok",
+  "urlPositive":"exit",
   "btnNegative":"false",
   "urlNegative":"skip"
 }
