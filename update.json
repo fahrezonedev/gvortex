@@ -1,9 +1,9 @@
 {
-  "vCode":"3050",
+  "vCode":"3100",
   "title":"Update",
-  "subtitle":"Update available, Update now and get 240vc Free :)",
-  "btnPositive":"Update",
-  "urlPositive":"https://fahrezonedev.github.io",
-  "btnNegative":"false",
+  "subtitle":"Update available, you can check on Youtube :D",
+  "btnPositive":"Check it",
+  "urlPositive":"https://youtu.be/MyeeCS3qBMk",
+  "btnNegative":"Skip",
   "urlNegative":"skip"
 }
