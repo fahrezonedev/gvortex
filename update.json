@@ -1,9 +1,9 @@
 {
   "vCode":"3090",
   "title":"Update",
-  "subtitle":"Update available, you can check on Youtube :D",
+  "subtitle":"Update available, you can update now :)",
   "btnPositive":"Check it",
   "urlPositive":"https://youtu.be/MyeeCS3qBMk",
-  "btnNegative":"Skip",
+  "btnNegative":"false",
   "urlNegative":"skip"
 }
