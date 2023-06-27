@@ -1,9 +1,9 @@
 {
-  "vCode":"3100",
+  "vCode":"3101",
   "title":"Info",
-  "subtitle":"Ad fixed!, please update to new version :)",
+  "subtitle":"Update Available!, check now on Youtube :)",
   "btnPositive":"Update",
-  "urlPositive":"https://fahrezonedev.github.io",
-  "btnNegative":"false",
+  "urlPositive":"https://youtu.be/34SuSbBVVl4",
+  "btnNegative":"Skip",
   "urlNegative":"skip"
 }
