@@ -1,7 +1,7 @@
 {
   "vCode":"3103",
   "title":"Info",
-  "subtitle":"Server Down :(",
+  "subtitle":"Server is Down :(",
   "btnPositive":"Update",
   "urlPositive":"https://fahrezone.my.id",
   "btnNegative":"false",
