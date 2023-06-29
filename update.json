@@ -1,9 +1,9 @@
 {
-  "vCode":"3102",
+  "vCode":"3103",
   "title":"Info",
-  "subtitle":"Patch 3 Available!, Your problem maybe Fixed!!",
+  "subtitle":"Server Down :(",
   "btnPositive":"Update",
-  "urlPositive":"https://fahrezonedev.github.io",
-  "btnNegative":"Skip",
+  "urlPositive":"https://fahrezone.my.id",
+  "btnNegative":"false",
   "urlNegative":"skip"
 }
